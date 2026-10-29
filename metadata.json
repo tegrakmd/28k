@@ -1,0 +1,6 @@
+{
+  "name": "28K – Work",
+  "description": "Case studies from Studio 28K: brand identities, websites and digital products for ESPN, Hut 8, OOONO, WRK, ON.Energy and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
